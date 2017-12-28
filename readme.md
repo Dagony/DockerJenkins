@@ -10,3 +10,4 @@ I want to set up Jenkins, but running it on a local machine tends to mess up the
 
 
 https://engineering.riotgames.com/news/jenkins-docker-proxies-and-compose
+Page is done, up untill 'DOCKER COMPOSE AND JENKINS'
